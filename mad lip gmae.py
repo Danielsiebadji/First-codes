@@ -1,0 +1,6 @@
+color =input ("Enter a color: ")
+plural = input("Enter a Plural noun: ")
+celeb= input("Enter a celebrity: ")
+print ("roses are " + color)
+print(plural+" are blue" )
+print (" i love " + celeb)
